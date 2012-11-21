@@ -1,0 +1,9 @@
+name: BigOne Stuck
+main: me.BigOne.AdobeGFX.NorwayZaGa.Stuck.Stuck
+version: 1.1
+author: BigOne
+commands:
+   stuck:
+     description: Teleports you to the top!
+     aliases:
+     - s
